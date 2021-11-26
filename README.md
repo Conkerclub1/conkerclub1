@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm James 👋
+
+Welcome to my github!
+
+I am a final year Mechatronic Engineering (Space) student at The University of Sydney. Check out some of my projects and interests attached to this Github. 
 
 <!--
 **Conkerclub1/conkerclub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
