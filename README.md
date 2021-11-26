@@ -1,4 +1,4 @@
-### Hi there, I'm James 👋
+# Hi there, I'm James 👋
 
 Welcome to my github!
 
